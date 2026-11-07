@@ -1,0 +1,5 @@
+package.json
+wrangler.toml
+.assetsignore
+README.md
+node_modules
